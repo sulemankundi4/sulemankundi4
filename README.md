@@ -1,17 +1,9 @@
-<p align="center">
-  <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
+
 
 <h1 align="center"> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=usamaarshad.usamaarshad" alt="Visitors" />
-  <a href="https://github.com/usamaarshad">
-    <img src="https://img.shields.io/github/followers/usamaarshad?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-</p>
 
-<div align="center" style="font-size: 20px;">Hi! I'm <strong>Usama Arshad</strong> — a passionate Full Stack Developer from Pakistan 🇵🇰</div>
+<div align="center" style="font-size: 20px;">Hi! I'm <strong>Muhammad Suleman</strong> — a passionate Full Stack Developer from Pakistan 🇵🇰</div>
 
 ---
 
