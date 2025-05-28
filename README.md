@@ -20,19 +20,24 @@
 
 ---
 
-<h2>🛠️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
+<h2>
+  🛠️ Tech Stack 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"  />
+</h2>
 
-<p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32px" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32px" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32px" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32px" alt="React" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="32px" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="32px" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="32px" alt="Redux Toolkit" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32px" alt="C#" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="32px" alt=".NET" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32px" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32px" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32px" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32px" alt="CSS3" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="32px" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32px" alt="SQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32px" alt="Git" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36px" alt="Azure" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32px" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32px" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32px" alt="MySQL" />
 </p>
 
 ---
@@ -41,24 +46,34 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=usamaarshad&show_icons=true&theme=tokyonight" alt="Usama's GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaarshad&theme=tokyonight" alt="GitHub Streak" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sulemankundi4&show_icons=true&theme=tokyonight" alt="Muhammad Suleman's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulemankundi4&theme=tokyonight" alt="GitHub Streak" />
+    </td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaarshad&layout=compact&theme=tokyonight" alt="Top Languages" /></td>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulemankundi4&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
   </tr>
 </table>
+
 
 ---
 
 <h2>📬 Connect With Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px"> </h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-url"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
-  <a href="https://twitter.com/your-twitter-handle"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a>
-  <a href="mailto:your@email.com"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg"></a>
-  <a href="https://github.com/usamaarshad"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+  <a href="https://www.linkedin.com/in/muhammad-suleman-0abb36321">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/sulemankundi4">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub">
+  </a>
 </p>
+
 
 ---
 
@@ -67,5 +82,3 @@
 </p>
 
 ---
-
-<p align="center"><i>Last updated on: {{ auto-update or your date }}</i></p>
