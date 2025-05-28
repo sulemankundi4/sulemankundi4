@@ -12,16 +12,16 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
-<p>🔭 I’m currently working as Full Stack Engineer at Taqliq</p>
+<p>🔭 I’m currently working as a Full Stack Developer at Taqliq, building web applications using .NET, C#, React, and Tailwind CSS.</p>
 </li>
 <li>
-<p>🌱 I’m currently learning .Net, C#</p>
+<p>>🌱 I’m currently deepening my expertise in modern .NET and cloud-based development.</p>
 </li>
 <li>
-<p>👯 I’m looking to collaborate on project</p>
+<p>👯 I’m open to collaborating on full-stack web projects, especially those using React or ASP.NET Core.</p>
 </li>
 <li>
-<p>💬 Ask me about Sql, Java, C#, JavaScript</p>
+<p>💬 Ask me about SQL, Java, C#, JavaScript, and scalable application architecture.</p>
 </li>
 <li>
 <p>⚡ Fun fact: Me gustan los girasoles.</p>
